@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactSVGSmiley/static/css/main.f7160684.chunk.css",
+    "main.js": "/reactSVGSmiley/static/js/main.27cd70bb.chunk.js",
+    "main.js.map": "/reactSVGSmiley/static/js/main.27cd70bb.chunk.js.map",
+    "runtime-main.js": "/reactSVGSmiley/static/js/runtime-main.aeee2708.js",
+    "runtime-main.js.map": "/reactSVGSmiley/static/js/runtime-main.aeee2708.js.map",
+    "static/js/2.3b75f7c8.chunk.js": "/reactSVGSmiley/static/js/2.3b75f7c8.chunk.js",
+    "static/js/2.3b75f7c8.chunk.js.map": "/reactSVGSmiley/static/js/2.3b75f7c8.chunk.js.map",
+    "static/js/3.ec707d97.chunk.js": "/reactSVGSmiley/static/js/3.ec707d97.chunk.js",
+    "static/js/3.ec707d97.chunk.js.map": "/reactSVGSmiley/static/js/3.ec707d97.chunk.js.map",
+    "index.html": "/reactSVGSmiley/index.html",
+    "static/css/main.f7160684.chunk.css.map": "/reactSVGSmiley/static/css/main.f7160684.chunk.css.map",
+    "static/js/2.3b75f7c8.chunk.js.LICENSE.txt": "/reactSVGSmiley/static/js/2.3b75f7c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeee2708.js",
+    "static/js/2.3b75f7c8.chunk.js",
+    "static/css/main.f7160684.chunk.css",
+    "static/js/main.27cd70bb.chunk.js"
+  ]
+}
